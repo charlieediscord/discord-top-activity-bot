@@ -1,0 +1,12 @@
+{
+  "name": "discord-top-activity-bot",
+  "version": "1.0.0",
+  "description": "Discord bot na top chat a voice statistiky",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
